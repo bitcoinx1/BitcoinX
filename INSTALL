@@ -1,0 +1,9 @@
+Building BITCOINX
+
+See doc/readme-qt.rst for instructions on building BITCOINX QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of BITCOINX.
+
+See doc/build-*.txt for instructions on building bitcoinxd,
+the intended-for-services, no-graphical-interface, reference
+implementation of BITCOINX.
